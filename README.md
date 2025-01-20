@@ -41,7 +41,7 @@ The follwoing map shows the markers for all the end stations:
 
 ### Monthly Trends and User Insights: 
 The Month filter on top of the dashboard lets select one or multiple months to view dynamic results.
-**Monthly Trends:**
+##### Monthly Trends:
 The monthly trends in rides, distance covered, and ride duration reveal notable patterns:
    * Distance Covered: October recorded the highest distance covered, while December had the lowest.
    * Average Ride Duration: Members maintained a consistent average ride duration of under 10 minutes across all months. In contrast, casual riders exceeded a 10-minute average ride duration in all months except December.
@@ -65,6 +65,7 @@ The analysis of bike usage and ridership trends reveals key patterns:
 **Day-wise Insights:**
    * Saturdays recorded the highest average distance covered, followed by Sundays, while Mondays had the lowest.
    * Peak hours for weekdays are at 8 AM and 5–6 PM, while weekends peak at 12 PM.
+
 The observed patterns can be attributed to the following factors:
    * Top Stations: Hoboken Terminal, Hudson Pl, and Grove St PATH are likely major commuting hubs, as these areas also correspond to zip codes with high per capita income, a population with greater commuting needs.
    * Peak Hours: Weekday peaks at 8 AM and 5–6 PM align with commuting times, while the 12 PM weekend peak reflects leisure activities during midday.
