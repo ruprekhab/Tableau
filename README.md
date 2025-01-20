@@ -31,7 +31,11 @@ Citibike System Data (September 2024 - December 2024) as published by Citibike.
 
    * The most popular stations for starting and ending trips are Hoboken Terminal and Hudson Pl and Grove St Path.
 These locations correspond to areas with high per capita income.
+
+The following map shows the markers for all the start stations:
 ![image alt](https://github.com/ruprekhab/Tableau/blob/709ce6e2d63e1b650bc8eeb099d1d55d5d8615a9/Images/Map_%20Bike%20Start%20Stations.png)
+
+The follwoing map shows the markers for all the end stations:
 ![image alt](https://github.com/ruprekhab/Tableau/blob/deb6ebff73fc73b125def03a505f46cdf704369b/Images/Map_%20Bike%20End%20Stations.png)
 ## Dashboard Analysis:
 
@@ -42,6 +46,7 @@ The monthly trends in rides, distance covered, and ride duration reveal notable 
    * Distance Covered: October recorded the highest distance covered, while December had the lowest.
    * Average Ride Duration: Members maintained a consistent average ride duration of under 10 minutes across all months. In contrast, casual riders exceeded a 10-minute average ride duration in all months except December.
    * Total Rides: Among members, the highest total rides occurred in October, with the lowest in December. Casual riders experienced peak ridership between September and October, with a sharp decline in December.
+     
 
 The observed patterns are likely due to seasonal changes and rider behaviour:
    * October Peak & December Decline: Favourable weather in October boosts cycling, while cold weather and holidays in December reduce ridership.
