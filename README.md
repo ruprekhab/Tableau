@@ -27,7 +27,7 @@ Citibike System Data (September 2024 - December 2024) as published by Citibike.
    * Marker size increases and color darkens based on location popularity.
    * A dropdown filter allows month-by-month exploration.
    * Maps are segmented by zip codes and a layer of per capital income by zip code was created
-**Insights:**
+##### Insights:
 
    * The most popular stations for starting and ending trips are Hoboken Terminal and Hudson Pl and Grove St Path.
 These locations correspond to areas with high per capita income.
