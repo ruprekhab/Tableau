@@ -35,7 +35,7 @@ These locations correspond to areas with high per capita income.
 The following map shows the markers for all the start stations:
 ![image alt](https://github.com/ruprekhab/Tableau/blob/709ce6e2d63e1b650bc8eeb099d1d55d5d8615a9/Images/Map_%20Bike%20Start%20Stations.png)
 
-The follwoing map shows the markers for all the end stations:
+The following map shows the markers for all the end stations:
 ![image alt](https://github.com/ruprekhab/Tableau/blob/deb6ebff73fc73b125def03a505f46cdf704369b/Images/Map_%20Bike%20End%20Stations.png)
 ## Dashboard Analysis:
 
