@@ -32,6 +32,7 @@ Citibike System Data (September 2024 - December 2024) as published by Citibike.
    * The most popular stations for starting and ending trips are Hoboken Terminal and Hudson Pl and Grove St Path.
 These locations correspond to areas with high per capita income.
 ![image alt](https://github.com/ruprekhab/Tableau/blob/709ce6e2d63e1b650bc8eeb099d1d55d5d8615a9/Images/Map_%20Bike%20Start%20Stations.png)
+![image alt](https://github.com/ruprekhab/Tableau/blob/deb6ebff73fc73b125def03a505f46cdf704369b/Images/Map_%20Bike%20End%20Stations.png)
 ## Dashboard Analysis:
 
 ### Monthly Trends and User Insights: 
@@ -48,6 +49,9 @@ The observed patterns are likely due to seasonal changes and rider behaviour:
    * Members: Consistent short rides suggest utilitarian use, though colder months also impact their activity.
    * December Dip: Holidays and reduced outdoor activity further lower ridership and distance covered.
 
+  ![image alt](https://github.com/ruprekhab/Tableau/blob/deb6ebff73fc73b125def03a505f46cdf704369b/Images/Monthly%20Trends%20%26%20User%20Insights.png)
+   
+
 
 ### User Analysis:
 The analysis of bike usage and ridership trends reveals key patterns:
@@ -61,6 +65,8 @@ The observed patterns can be attributed to the following factors:
    * Peak Hours: Weekday peaks at 8 AM and 5–6 PM align with commuting times, while the 12 PM weekend peak reflects leisure activities during midday.
    * Weekly Average Distance: Saturdays and Sundays see higher distances as riders engage in leisure or recreational activities, while Mondays have the lowest distance due to reduced non-essential trips.
    * Growth Trends: Ridership growth in September could result from favourable weather and the end of summer vacations. The sharp decline in December is likely due to colder weather and holiday season disruptions, reducing travel demand.
+
+     ![image alt](https://github.com/ruprekhab/Tableau/blob/deb6ebff73fc73b125def03a505f46cdf704369b/Images/Bike%20User%20Analysis.png)
 
 
 
