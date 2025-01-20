@@ -21,6 +21,7 @@ Citibike System Data (September 2024 - December 2024) as published by Citibike.
    * Data was filtered to include only records between September 1, 2024, and December 31, 2024.
    * Export: The cleaned dataset was exported to CSV for further analysis.
 ## Tableau Visualizations
+### Interactivity: Users can hover over the map, bars, or markers to view corresponding values. A dropdown filter in the maps allow month-by-month exploration.
 ### Dynamic Maps:
 **Description:**
    * Two maps were created to visualize start locations and end locations separately.
