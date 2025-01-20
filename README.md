@@ -31,6 +31,7 @@ Citibike System Data (September 2024 - December 2024) as published by Citibike.
 
    * The most popular stations for starting and ending trips are Hoboken Terminal and Hudson Pl and Grove St Path.
 These locations correspond to areas with high per capita income.
+![image alt](https://github.com/ruprekhab/Tableau/blob/709ce6e2d63e1b650bc8eeb099d1d55d5d8615a9/Images/Map_%20Bike%20Start%20Stations.png)
 ## Dashboard Analysis:
 
 ### Monthly Trends and User Insights: 
