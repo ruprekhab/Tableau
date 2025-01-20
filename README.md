@@ -39,7 +39,7 @@ The following map shows the markers for all the start stations:
 
 The following map shows the markers for all the end stations:
 ![image alt](https://github.com/ruprekhab/Tableau/blob/deb6ebff73fc73b125def03a505f46cdf704369b/Images/Map_%20Bike%20End%20Stations.png)
-## Dashboard Analysis:
+## Analysis:
 
 ### Monthly Trends and User Insights: 
 The Month filter on top of the dashboard lets select one or multiple months to view dynamic results.
