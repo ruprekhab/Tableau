@@ -6,7 +6,8 @@ The project aims to analyze Citibike usage trends from September to December 202
    * Analyzing trip patterns and user behavior.
 
 ## Data Source 
-Citibike System Data (September 2024 - December 2024) as published by Citibike.
+Citibike System Data (September 2024 - December 2024) as published by Citibike.</br>
+https://citibikenyc.com/system-data
 
 ## Files and Folders:
    * clean_data: The folder contains the clean csv file used for analysis in this project
