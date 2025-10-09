@@ -1,5 +1,5 @@
 # Citibike System Data Analysis: September 2024 - December 2024
-
+[🔍 Click here to explore the interactive dashboard on Tableau](https://public.tableau.com/app/profile/ruprekha.baruah/viz/Citibike_Analysis24/BikeUserAnalysis)
 ## Overview
 The project aims to analyze Citibike usage trends from September to December 2024. The study involves analyzing the following two phenomenon:
    * Identifying usage patterns as seasons change.
@@ -8,6 +8,10 @@ The project aims to analyze Citibike usage trends from September to December 202
 ## Data Source 
 Citibike System Data (September 2024 - December 2024) as published by Citibike.</br>
 https://citibikenyc.com/system-data
+<<<<<<< HEAD
+=======
+
+>>>>>>> 059c2d8d0fc8fa6e982a72ca6853e493716425c0
 
 ## Files and Folders:
    * clean_data: The folder contains the clean csv file used for analysis in this project
